@@ -1,0 +1,26 @@
+h1{
+  color: red
+}
+p{
+  color: #000;
+}
+li{
+  color:rgb(0,200,0);
+}
+h4{
+  color:rgba(13,90,140);
+}
+
+body {
+  background-color: #333333;
+}
+h1 {
+  font-family: Georgia, serif;
+  font-size: 48px;
+}
+
+p {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px;
+}
+
