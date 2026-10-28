@@ -1,0 +1,12 @@
+.warning{
+  color:red;
+  font-weight:bold;
+}
+.night{
+  color:blue;
+  font-weight:lighter;
+}
+#starwars{
+  text-align:center;
+  color:purple;
+}
