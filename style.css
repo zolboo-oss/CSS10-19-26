@@ -1,12 +1,47 @@
-.warning{
-  color:red;
-  font-weight:bold;
+* {
+    border: 1px solid red;
 }
-.night{
-  color:blue;
-  font-weight:lighter;
+* {
+    box-sizing: border-box;
 }
-#starwars{
-  text-align:center;
-  color:purple;
+#main-title {
+    text-align: center;
+    color: darkred;
+    width: 80%;
+    margin: 20px auto;
+    padding: 15px;
+    border: 2px solid darkred;
+    border-radius: 10px;
+}
+.card {
+    width: 80%;
+    margin: 0 auto 25px;
+    padding: 20px;
+    background-color: #eeeeee;
+    border-radius: 10px;
+}
+
+.card:first-of-type {
+    border: 2px solid darkgreen;
+}
+
+.doom-heading {
+    color: darkgreen;
+    font-family: Georgia, serif;
+}
+
+.highlight {
+    color: red;
+    font-weight: bold;
+}
+
+.night {
+    color: navy;
+    font-weight: bold;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: white;
+    margin: 30px;
 }
